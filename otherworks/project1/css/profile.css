@@ -1,0 +1,78 @@
+.main
+{
+
+}
+.div1
+{
+		width: 100%;
+	height: 50px;
+	background-color: #3b5998;
+
+}
+.kl
+{
+	margin-left: 10px;
+	font-weight: bold;
+	
+}
+.d3
+{
+	background-color: white;
+    border:10px;
+    padding: 5px;
+}
+.d2
+{
+	background-color: white;
+	height: 180px;
+}
+.edit-icon
+{
+width: 28px;
+ height: 28px;	
+}
+.a2
+{
+	margin-top: 9px;
+}
+.search
+{
+	width: 500px;
+	height: 27px;
+	padding: 5px;
+	margin-top: 12px;
+}
+
+.imglogo
+{
+	height: 26px;
+	width: 26px;
+	
+	margin-left: 30px;
+}
+.kj
+{
+	
+	
+	height: 200px;
+
+}
+.sbt
+{
+	height: 27px;
+	width: 28px;
+	margin-top: 12px;
+}
+.div2
+{
+	background-color: #E0E0F7;
+	height: 700px;
+}
+.d1
+{
+	margin-top: 20px;
+}
+.d4
+{
+	background-color: #fff;
+}

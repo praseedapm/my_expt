@@ -1,0 +1,146 @@
+.d1
+{
+	width: 100%;
+
+
+}
+.di1
+{
+	width: 60%;
+	height: 80px;
+	background-color: #3b5998;
+	float: left;
+}
+.di2
+{
+	width: 40%;
+	float: right;
+	background-color: #3b5998;
+	height: 80px;
+	text-align: center;
+
+}
+.formlogin
+{
+	margin-top: 33px;
+}
+.img
+{
+	height: 60px;
+	margin-top: 10px;
+}
+
+.btnlogin
+{
+	background-color: #302B87;
+	font-size: 15px;
+	color: white;
+	border-color: #302B87;
+	font-family: arial;
+	font-weight: bold;
+}
+.t1
+{
+
+	padding: 3px;
+}
+.t2
+{
+	padding: 3px;
+	margin-left: 20px;
+	background-color: white;
+	margin-right: 20px;
+}
+
+.d2
+{
+	width: 100%;
+}
+.di3
+{
+width: 60%;
+margin-top: 30px;
+background-color: #E0E0F7;
+float: left;
+height: 470px;
+
+}
+.txt1
+{
+	font-weight: bold;
+	font-size: 20px;
+	
+	font-family: arial;
+	margin: 20px;
+}
+.txt2
+{
+	font-family: arial;
+	font-size: 15px;
+	padding-left: 20px;
+}
+.main
+{
+	background-color: #E0E0F7;
+	height: 700px;
+}
+.txtlname,.txtfname
+{
+	padding: 9px;
+	border-color: #E4E4E8;
+	width: 200px;
+}
+.txtlname
+{
+	margin-left: 24px;
+}
+.txtm
+{
+	width: 450px;
+	padding: 9px;
+	background-color: white;
+	 border-color: #E4E4E8;
+}
+.txt3
+{
+	font-family: arial;
+	font-size: 13px;
+}
+.txt4
+{
+	font-family: lucida;
+	font-size: 20px;
+	color: grey;
+	margin-bottom: 30px;
+
+}
+.btnsignup,.btnsignup1
+{
+
+background-color: green;
+
+
+color: white;
+padding: 9px;
+font-size: 15px;
+font-family: tahoma;border: 0px;
+}
+.signup
+{
+	margin-top: 60px;
+	margin-bottom: 0px;
+	font-weight: bold;
+	font-family: arial;
+	font-size: 30px;
+
+}
+.btnsignup1
+{
+	margin-top: 500px;
+}
+.di4
+{
+height: 470px;
+float: right;
+width: 40%;
+}
